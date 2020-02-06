@@ -13,4 +13,3 @@
 ### Varying Combinations
 
 - https://arxiv.org/abs/1803.05407 : Averaging Weights Leads to Wider Optima and Better Generalization
-- 
